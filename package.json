@@ -16,6 +16,7 @@
     "@supabase/ssr": "^0.5.1",
     "lucide-react": "^0.445.0",
     "clsx": "^2.1.1"
+    "@vercel/analytics": "latest",
   },
   "devDependencies": {
     "typescript": "^5.5.4",
